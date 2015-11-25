@@ -5,4 +5,5 @@
 **Demo apps**
 
 https://github.com/angular-app/angular-app
+
 [Recipes with Angular.js](https://github.com/fdietz/recipes-with-angular-js-examples)
