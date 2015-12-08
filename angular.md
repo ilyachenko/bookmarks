@@ -4,7 +4,7 @@
 
 **Demo apps**
 
-[AngularJS CRUD application demo](https://github.com/angular-app/angular-app) - book **Mastering Web Application Development with AngularJS**
+[AngularJS CRUD application demo](https://github.com/angular-app/angular-app) (*Mastering Web Application Development with AngularJS* book)
 
 [Recipes with Angular.js](https://github.com/fdietz/recipes-with-angular-js-examples)
 
