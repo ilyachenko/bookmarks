@@ -9,3 +9,5 @@
 [Recipes with Angular.js](https://github.com/fdietz/recipes-with-angular-js-examples)
 
 **Style Guides**: [Todd Motto](https://github.com/toddmotto/angularjs-styleguide) | [John Papa](https://github.com/johnpapa/angular-styleguide)
+
+**Seeds**: [angular-seed](https://github.com/angular/angular-seed) | [angular-express-seed](https://github.com/btford/angular-express-seed)
