@@ -1,3 +1,9 @@
+**Style Guides**
+
+[Todd Motto](https://github.com/toddmotto/angularjs-styleguide)
+
+[John Papa](https://github.com/johnpapa/angular-styleguide)
+
 **Articles**
 
 [Interceptors in AngularJS and Useful Examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
