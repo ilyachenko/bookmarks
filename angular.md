@@ -11,3 +11,9 @@
 **Style Guides**: [Todd Motto](https://github.com/toddmotto/angularjs-styleguide) | [John Papa](https://github.com/johnpapa/angular-styleguide)
 
 **Seeds**: [angular-seed](https://github.com/angular/angular-seed) | [angular-express-seed](https://github.com/btford/angular-express-seed)
+
+###Tests
+
+**Karma**
+
+[$resource mocking](http://projectpoppycock.com/2014/03/05/mocking-resource-and-promises-in-angularjs-unit-tests/)
