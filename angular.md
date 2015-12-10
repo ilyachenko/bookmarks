@@ -14,4 +14,4 @@
 
 **Unit tests**
 
-[$resource mocking](http://projectpoppycock.com/2014/03/05/mocking-resource-and-promises-in-angularjs-unit-tests/)
+[Introduction to Unit Test: Services](http://angular-tips.com/blog/2014/06/introduction-to-unit-test-services/)
