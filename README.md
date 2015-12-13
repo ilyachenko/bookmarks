@@ -1,3 +1,3 @@
-[ES](/js.md)
+[JS](/js.md)
 
 [Angular](/angular.md)
