@@ -2,6 +2,8 @@
 
 [Interceptors in AngularJS and Useful Examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 
+[AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
+
 **Demo apps**
 
 [AngularJS CRUD application demo](https://github.com/angular-app/angular-app) (*Mastering Web Application Development with AngularJS* book)
