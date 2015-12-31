@@ -9,3 +9,5 @@
 **Tutorials**
 
 [Build With React](http://buildwithreact.com/tutorial/)
+
+[Getting Started with Facebook’s React.js](https://scotch.io/courses/getting-started-with-facebooks-react-js)
