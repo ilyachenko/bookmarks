@@ -1,6 +1,8 @@
-**Demo apps**
+**Demo apps, examples**
 
 [Official Facebook tutorial](https://github.com/reactjs/react-tutorial)
+
+[React rocks](https://react.rocks)
 
 **Starter kits**
 
