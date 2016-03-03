@@ -4,6 +4,10 @@
 
 [AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
 
+**Tutorials**
+
+[BUILDING A GMAIL CLONE](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/#Introduction)
+
 **Demo apps**
 
 [AngularJS CRUD application demo](https://github.com/angular-app/angular-app) (*Mastering Web Application Development with AngularJS* book)
